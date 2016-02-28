@@ -1,0 +1,11 @@
+
+addfile -vhdl ../../pcie.vhd
+addfile -vhdl ../../pciahbmst.vhd
+addfile -vhdl ../../dmactrl.vhd
+addfile -vhdl ../../config.vhd
+addfile -vhdl ../../svga2ch7301c.vhd
+addfile -vhdl ../../ahbrom.vhd
+addfile -vhdl ../../ahb2mig_sp605.vhd
+addfile -vhdl ../../vga_clkgen.vhd
+addfile -vhdl ../../leon3mp.vhd
+addfile -vhdl ../../testbench.vhd

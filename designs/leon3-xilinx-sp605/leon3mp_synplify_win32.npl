@@ -1,0 +1,18 @@
+JDF G
+PROJECT leon3mp
+DESIGN leon3mp
+DEVFAM Spartan6
+DEVICE XC6SLX45T
+DEVSPEED -3
+DEVPKG fgg484
+DEVTOPLEVELMODULETYPE EDIF
+DEVSIMULATOR Modelsim
+DEVGENERATEDSIMULATIONMODEL VHDL
+SOURCE synplify\leon3mp.edf
+DEPASSOC leon3mp leon3mp.ucf
+[Normal]
+xilxMapAllowLogicOpt=edif,  Spartan6, EDIF.t_placeAndRouteDes, 1102861051, True
+xilxMapCoverMode=edif,  Spartan6, EDIF.t_placeAndRouteDes, 1102861051, Speed
+xilxNgdbld_AUL=edif,  Spartan6, EDIF.t_placeAndRouteDes, 1102861051, True
+xilxPAReffortLevel=edif,  Spartan6, EDIF.t_placeAndRouteDes, 1102861051, Medium
+xilxNgdbldMacro=edif,  Spartan6, EDIF.t_placeAndRouteDes, 1105378344, ..\..\netlists\xilinx\Spartan3

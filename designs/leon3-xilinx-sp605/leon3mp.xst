@@ -1,0 +1,13 @@
+set -tmpdir xst/projnav.tmp
+set -xsthdpdir xst
+run
+-opt_mode Speed
+-opt_level 2
+-fsm_extract no
+-iob true
+-ifn leon3mp_files.prj
+-bus_delimiter ()
+-ifmt mixed
+-p XC6SLX45T-fgg484-3
+-top leon3mp
+-ofn leon3mp -define {XSTDUMMY } -sd ../../netlists/xilinx/Spartan3

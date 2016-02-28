@@ -1,0 +1,14 @@
+
+../../lib/opencores/ge_1000baseX/clean_rst.v
+../../lib/opencores/ge_1000baseX/decoder_8b10b.v
+../../lib/opencores/ge_1000baseX/encoder_8b10b.v
+../../lib/opencores/ge_1000baseX/ge_1000baseX_constants.v
+../../lib/opencores/ge_1000baseX/ge_1000baseX_regs.v
+../../lib/opencores/ge_1000baseX/ge_1000baseX_test.v
+../../lib/opencores/ge_1000baseX/timescale.v
+../../lib/opencores/ge_1000baseX/ge_1000baseX.v
+../../lib/opencores/ge_1000baseX/ge_1000baseX_an.v
+../../lib/opencores/ge_1000baseX/ge_1000baseX_mdio.v
+../../lib/opencores/ge_1000baseX/ge_1000baseX_rx.v
+../../lib/opencores/ge_1000baseX/ge_1000baseX_sync.v
+../../lib/opencores/ge_1000baseX/ge_1000baseX_tx.v
